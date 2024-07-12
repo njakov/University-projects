@@ -46,5 +46,4 @@ etf\is1\projekat\entities\subsystem3\Video.class
 etf\is1\projekat\server\requests\KreirajGledanjeRequest.class
 etf\is1\projekat\server\requests\ServerRequest$Request.class
 etf\is1\projekat\entities\subsystem3\Pretplata.class
-etf\bg\ac\rs\is1\server\JAXRSConfiguration.class
 etf\is1\projekat\server\resources\JavaEE8Resource.class

@@ -1,4 +1,4 @@
-package etf.bg.ac.rs.is1.server;
+package etf.is1.projekat.server;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
