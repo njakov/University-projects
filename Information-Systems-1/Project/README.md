@@ -5,5 +5,5 @@ The client application, constructed with Retrofit, creates REST requests, sends 
 The central server processes the REST requests and forwards them to the subsystems using JMS (Java Message Service).
 Each subsystem operates with its own independent MySQL database.
 
-For more details, please refer to the [project specifications.](Information-Systems-1/Project/13E114IS1_domaci_23_24.pdf)
+For more details, please refer to the [project specifications.](https://github.com/njakov/ETF/blob/main/Information-Systems-1/Project/13E114IS1_domaci_23_24.pdf)
 
