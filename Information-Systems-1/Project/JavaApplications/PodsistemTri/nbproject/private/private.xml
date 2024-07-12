@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/KreirajPaketRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/KreirajGledanjeRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/entities/subsystem3/Ocena.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/conf/persistence.xml</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/PromeniOcenuSnimkaRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/KreirajOcenuZaSnimakHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/RequestHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/DohvatanjeOcenaZaSnimakHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/entities/subsystem3/Paket.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/DohvatanjeSvihGledanjaHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/entities/subsystem3/OcenaPK.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/BrisanjeOceneHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/conf/application-client.xml</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/DohvatanjeSvihPaketaHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/KreirajPaketHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/DohvatiOceneVideaRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/KreirajPretplatuHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/DohvatiPaketeRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/DohvatiGledanjaVideaRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/KreirajGledanjeHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/entities/subsystem3/Video.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/entities/subsystem3/Korisnik.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/ObrisiOcenuRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/KreirajPretplatuRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/KreirajOcenuRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/subsystem3/Subsystem3.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/PromeniOcenuZaSnimakHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/PromeniCenuPaketaRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/DohvatanjeSvihPretplataHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/handlers/PromeniCenuPaketaHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/ServerRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/entities/subsystem3/Pretplata.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/server/requests/DohvatiPretplateKorisnikaRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemTri/src/java/etf/is1/projekat/entities/subsystem3/Gledanje.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/handlers/KreirajKategorijuHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/entities/Video.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/handlers/DodavanjeKategorijeHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/handlers/DohvatanjeSvihVideaHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/subsystem2/Subsystem2.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/handlers/DohvatanjeKategorijaZaVideoHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/server/requests/ServerRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/server/requests/KreirajVideoRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/server/requests/DohvatiKategorijeZaVideoRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/handlers/KreirajVideoHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/server/requests/ObrisiVideoRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/handlers/PromeniNazivVideaHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/server/requests/DohvatiKategorijeRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/server/requests/KreirajKategorijuRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/server/requests/PromeniNazivVideaRequest.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/handlers/DohvatanjeSvihKategorijaHandler.java</file>
+            <file>file:/D:/ETF/8.%20semestar/IS1/MojProjekat/JavaAplikacije/PodsistemDva/src/java/etf/is1/projekat/handlers/BrisanjeVideaHandler.java</file>
+        </group>
+    </open-files>
+</project-private>
